@@ -1,0 +1,18 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Part I}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Data Acquisition}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Data Cleaning}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Analysis}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Wordcloud}{4}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Sentiments immediately after US elections}{5}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Sentiments one month past US elections}{5}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Sentiments after Obama's speech over President elect}{8}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Sentiments after appointment of Steve Bannon as chief White House strategist}{9}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}Sentiments after appointment of Larry Kudlow as Chairman of Council of Economic Advisor}{10}{subsection.1.3.6}
+\contentsline {chapter}{\numberline {2}Part II}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Data Acquisition}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Analysis}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}New York sentiment}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Positive Negative Words}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Wordcloud positive negative words}{13}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Positive Negative Words}{13}{subsection.2.2.4}
